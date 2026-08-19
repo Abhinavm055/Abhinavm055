@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="100%" stop-color="#05070a" />
+    </linearGradient>
+
+    <linearGradient id="barSky" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#004d98" />
+      <stop offset="60%" stop-color="#75aadb" />
+      <stop offset="100%" stop-color="#93c5fd" />
+    </linearGradient>
+
+    <linearGradient id="barGarnet" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a50044" />
+      <stop offset="60%" stop-color="#db2777" />
+      <stop offset="100%" stop-color="#f472b6" />
+    </linearGradient>
+
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <pattern id="gridPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.02" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; }
+    .attr-name { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; font-weight: 600; fill: #e2e8f0; letter-spacing: 0.08em; }
+    .attr-val { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 700; fill: #75aadb; }
+    .header-tag { font-family: 'JetBrains Mono', monospace; font-size: 10px; fill: #64748b; letter-spacing: 0.2em; font-weight: 600; }
+  </style>
+
+  <!-- Container -->
+  <rect width="900" height="360" rx="14" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1" />
+  <rect width="900" height="360" rx="14" fill="url(#gridPattern)" />
+
+  <!-- Top Title Bar -->
+  <g transform="translate(36, 32)">
+    <text x="0" y="0" class="header-tag">TACTICAL ATTRIBUTE MATRIX // SQUAD #10</text>
+    <rect x="0" y="10" width="828" height="1" fill="#1e293b" />
+    <!-- Overall Badge -->
+    <g transform="translate(730, -16)">
+      <rect width="98" height="24" rx="4" fill="#0f172a" stroke="#75aadb" stroke-width="0.8" stroke-opacity="0.5" />
+      <text x="49" y="16" text-anchor="middle" class="mono" font-size="10" font-weight="700" fill="#75aadb" letter-spacing="0.1em">OVR 86 • ENG</text>
+    </g>
+  </g>
+
+  <!-- Column 1 (Left: Core Systems & Backend) -->
+  <!-- 1. JAVA (90) -->
+  <g transform="translate(36, 75)">
+    <text x="0" y="12" class="attr-name">JAVA / CORE &amp; ADVANCED</text>
+    <text x="360" y="12" text-anchor="end" class="attr-val">90</text>
+    <rect x="0" y="20" width="360" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="324" height="7" rx="3.5" fill="url(#barSky)" />
+  </g>
+
+  <!-- 2. BACKEND (90) -->
+  <g transform="translate(36, 130)">
+    <text x="0" y="12" class="attr-name">BACKEND ENGINEERING</text>
+    <text x="360" y="12" text-anchor="end" class="attr-val">90</text>
+    <rect x="0" y="20" width="360" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="324" height="7" rx="3.5" fill="url(#barSky)" />
+  </g>
+
+  <!-- 3. SPRING BOOT (85) -->
+  <g transform="translate(36, 185)">
+    <text x="0" y="12" class="attr-name">SPRING BOOT &amp; DATA JPA</text>
+    <text x="360" y="12" text-anchor="end" class="attr-val">85</text>
+    <rect x="0" y="20" width="360" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="306" height="7" rx="3.5" fill="url(#barSky)" />
+  </g>
+
+  <!-- 4. DATABASES & ORM (85) -->
+  <g transform="translate(36, 240)">
+    <text x="0" y="12" class="attr-name">DATABASES &amp; RELATIONAL MODELING</text>
+    <text x="360" y="12" text-anchor="end" class="attr-val">85</text>
+    <rect x="0" y="20" width="360" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="306" height="7" rx="3.5" fill="url(#barSky)" />
+  </g>
+
+  <!-- 5. SYSTEM DESIGN (70) -->
+  <g transform="translate(36, 295)">
+    <text x="0" y="12" class="attr-name">SYSTEM DESIGN &amp; ARCHITECTURE</text>
+    <text x="360" y="12" text-anchor="end" class="attr-val" fill="#a5b4fc">70</text>
+    <rect x="0" y="20" width="360" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="252" height="7" rx="3.5" fill="url(#barSky)" opacity="0.85" />
+  </g>
+
+  <!-- Column 2 (Right: Full-Stack & Algorithms) -->
+  <!-- 6. NODE.JS / EXPRESS (82) -->
+  <g transform="translate(490, 75)">
+    <text x="0" y="12" class="attr-name">NODE.JS &amp; EXPRESS</text>
+    <text x="374" y="12" text-anchor="end" class="attr-val">82</text>
+    <rect x="0" y="20" width="374" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="306" height="7" rx="3.5" fill="url(#barSky)" />
+  </g>
+
+  <!-- 7. REACT / FRONTEND (82) -->
+  <g transform="translate(490, 130)">
+    <text x="0" y="12" class="attr-name">REACT &amp; MODERN FRONTEND</text>
+    <text x="374" y="12" text-anchor="end" class="attr-val">82</text>
+    <rect x="0" y="20" width="374" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="306" height="7" rx="3.5" fill="url(#barSky)" />
+  </g>
+
+  <!-- 8. TYPESCRIPT (80) -->
+  <g transform="translate(490, 185)">
+    <text x="0" y="12" class="attr-name">TYPESCRIPT / JAVASCRIPT</text>
+    <text x="374" y="12" text-anchor="end" class="attr-val">80</text>
+    <rect x="0" y="20" width="374" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="299" height="7" rx="3.5" fill="url(#barSky)" />
+  </g>
+
+  <!-- 9. DSA & PROBLEM SOLVING (80) -->
+  <g transform="translate(490, 240)">
+    <text x="0" y="12" class="attr-name">DATA STRUCTURES &amp; ALGORITHMS</text>
+    <text x="374" y="12" text-anchor="end" class="attr-val">80</text>
+    <rect x="0" y="20" width="374" height="7" rx="3.5" fill="#172033" />
+    <rect x="0" y="20" width="299" height="7" rx="3.5" fill="url(#barSky)" />
+  </g>
+
+  <!-- Footer Note inside SVG -->
+  <g transform="translate(490, 310)">
+    <circle cx="4" cy="4" r="3" fill="#75aadb" opacity="0.6" />
+    <text x="16" y="7" class="mono" font-size="10" fill="#475569" letter-spacing="0.08em">DESIGN ATTRIBUTE RATINGS • SOFTWARE PLAYMAKER</text>
+  </g>
+</svg>
