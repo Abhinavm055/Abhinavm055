@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./assets/hero-banner.svg" alt="Abhinav #10 — Software Engineer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abhinavm055/Abhinavm055/main/assets/hero-banner.svg" alt="Abhinav #10 — Software Engineer Banner" width="100%" />
 
   <br/><br/>
 
   <!-- QUICK INTRO CHIPS -->
   <a href="#-career-highlights">
-    <img src="https://img.shields.io/badge/NUMBER_10-PLAYMAKER_ENGINEER-090D16?style=for-the-badge&logo=target&logoColor=75AADB&labelColor=05070A" alt="Number 10" />
+    <img src="https://img.shields.io/badge/SQUAD_NO.-10_PLAYMAKER-090D16?style=for-the-badge&logo=target&logoColor=75AADB&labelColor=05070A" alt="Number 10" />
   </a>
   <a href="#-engineering-stack">
     <img src="https://img.shields.io/badge/SPECIALTY-BACKEND_&_SYSTEMS-090D16?style=for-the-badge&logo=spring&logoColor=75AADB&labelColor=05070A" alt="Specialty" />
@@ -36,7 +36,7 @@ I specialize in backend engineering, distributed APIs, relational databases, and
 
 ### ⚽ CAREER HIGHLIGHTS
 
-Milestone projects engineered from concept to production.
+Milestone software projects engineered from concept to production.
 
 <br/>
 
@@ -181,7 +181,7 @@ Milestone projects engineered from concept to production.
 Tactical breakdown of engineering strengths, system skills, and core competencies.
 
 <div align="center">
-  <img src="./assets/player-attributes.svg" alt="Abhinav #10 Player Attributes Matrix" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abhinavm055/Abhinavm055/main/assets/player-attributes.svg" alt="Abhinav #10 Player Attributes Matrix" width="100%" />
 </div>
 
 <details>
@@ -268,7 +268,7 @@ Curated toolchain utilized across production codebases and backend services.
 Key architectural benchmarks, production deployments, and engineering milestones.
 
 <div align="center">
-  <img src="./assets/trophies.svg" alt="Abhinav #10 Trophies & Milestones" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abhinavm055/Abhinavm055/main/assets/trophies.svg" alt="Abhinav #10 Trophies & Milestones" width="100%" />
 </div>
 
 ---
@@ -303,15 +303,15 @@ Tactical playbook and current development focus for the 2026 engineering cycle.
 > *Every contribution is another session on the pitch.*
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinavm055&show_icons=true&theme=tokyonight&bg_color=07090e&title_color=75aadb&text_color=cbd5e1&icon_color=75aadb&border_color=1e293b&hide_border=false&border_radius=12" alt="Abhinav's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavm055&show_icons=true&theme=tokyonight&bg_color=07090e&title_color=75aadb&text_color=cbd5e1&icon_color=75aadb&border_color=1e293b&hide_border=false&border_radius=12" alt="Abhinav's GitHub Stats" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhinavm055&layout=compact&theme=tokyonight&bg_color=07090e&title_color=75aadb&text_color=cbd5e1&border_color=1e293b&hide_border=false&border_radius=12" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavm055&layout=compact&theme=tokyonight&bg_color=07090e&title_color=75aadb&text_color=cbd5e1&border_color=1e293b&hide_border=false&border_radius=12" alt="Top Languages" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavm055&theme=tokyonight&background=07090E&stroke=1E293B&ring=75AADB&fire=75AADB&currStreakLabel=75AADB&sideLabels=CBD5E1&dates=64748B&border_radius=12" alt="Abhinav's GitHub Streak" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=Abhinavm055&theme=tokyonight&background=07090E&stroke=1E293B&ring=75AADB&fire=75AADB&currStreakLabel=75AADB&sideLabels=CBD5E1&dates=64748B&border_radius=12" alt="Abhinav's GitHub Streak" width="95%" />
 </div>
 
 ---
