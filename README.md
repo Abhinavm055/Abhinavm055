@@ -229,56 +229,11 @@ Curated toolchain utilized across production codebases and backend services.
 
 ---
 
-### 🏆 TROPHIES
-
-Key architectural benchmarks, production deployments, and engineering milestones.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abhinavm055/Abhinavm055/main/assets/trophies.svg" alt="Abhinav #10 Trophies & Milestones" width="100%" />
-</div>
-
----
-
-### 🔥 CURRENT SEASON — 2026
-
-Tactical playbook and current development focus for the 2026 engineering cycle.
-
-```text
-┌─────────────────────────┬─────────────────────────────────────────────────────────────────┐
-│ DISCIPLINE              │ CURRENT FOCUS & OBJECTIVES                                      │
-├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
-│ 🟢 BUILDING             │ Production-grade backend systems & high-throughput web products │
-│ 🟡 IMPROVING            │ Data Structures & Algorithms, System Design, Fault-Tolerance    │
-│ 🔵 EXPLORING            │ Multi-Agent LLM Reasoning Pipelines & AI Security Operations    │
-│ ⚪ LOOKING FOR          │ Software Engineering & Backend Developer Opportunities          │
-└─────────────────────────┴─────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ### 🚧 CURRENTLY BUILDING
 
 * **CricAuctionIPL v2.0**: Expanding live websocket synchronization and multiplayer lobby room dynamics.
 * **AegisAI Multi-Agent Pipeline**: Refining deterministic log normalization and contextual threat-scoring algorithms.
 * **Backend Microservices with Spring Boot**: Developing modular RESTful services with Spring Data JPA and PostgreSQL.
-
----
-
-### 📈 MATCHDAY // SEASON STATISTICS
-
-> *Every contribution is another session on the pitch.*
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinavm055&show_icons=true&theme=tokyonight&bg_color=07090e&title_color=75aadb&text_color=cbd5e1&icon_color=75aadb&border_color=1e293b&hide_border=false&border_radius=12" alt="Abhinav's GitHub Stats" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavm055&layout=compact&theme=tokyonight&bg_color=07090e&title_color=75aadb&text_color=cbd5e1&border_color=1e293b&hide_border=false&border_radius=12" alt="Top Languages" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Abhinavm055&theme=tokyonight&background=07090E&stroke=1E293B&ring=75AADB&fire=75AADB&currStreakLabel=75AADB&sideLabels=CBD5E1&dates=64748B&border_radius=12" alt="Abhinav's GitHub Streak" width="95%" />
-</div>
 
 ---
 
