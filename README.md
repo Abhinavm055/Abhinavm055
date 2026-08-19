@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhinavm055/Abhinavm055/main/assets/hero-banner.svg" alt="Abhinav #10 — Software Engineer Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Abhinavm055/Abhinavm055/main/assets/cover.jpg" alt="Abhinav #10 — Software Engineer" width="100%" />
+
+<br/><br/>
+
+<h1>ABHINAV</h1>
+<p><b>SOFTWARE ENGINEER • SQUAD #10</b></p>
+<p><i>Backend-focused developer building real-world products with Java, Spring Boot, React, Node.js and PostgreSQL.</i></p>
+<p><code>ARGENTINA MENTALITY • BARÇA CREATIVITY • ENGINEERING DISCIPLINE</code></p>
 
 <br/>
 
