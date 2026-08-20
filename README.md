@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cover.jpg" alt="Cover Header" width="100%" />
+  <img src="assets/header.svg" alt="Abhinav Banner" width="100%" />
 </div>
 
 # Abhinav
@@ -29,20 +29,37 @@ Building real-world applications, backend systems, and modern web experiences.
 **Backend**  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=postman&logoColor=white)](https://restfulapi.net/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
 
-**Database**  
+**Database & Backend Services**  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore)
 [![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=databricks&logoColor=black)](https://neon.tech/)
 
-**Tools**  
+**Mobile**  
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+
+**Tools & DevOps**  
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+
+**Engineering**  
+[![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![Firebase Authentication](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/docs/auth)
+
+**AI / Intelligent Systems**  
+[![AI Applications](https://img.shields.io/badge/AI_Applications-6366F1?style=flat-square&logo=openai&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
+[![LLM Integration](https://img.shields.io/badge/LLM_Integration-10A37F?style=flat-square&logo=openai&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=robot-framework&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
 
 ---
 
@@ -60,17 +77,10 @@ Building real-world applications, backend systems, and modern web experiences.
 
 ### ✧ Contact
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhinavmalayil.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhinavmalayil.vercel.app/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@Abhinavm055-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinavm055)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malayil_Abhinav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malayil-abhinav)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-malayilabhinav16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malayilabhinav16@gmail.com)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhinavmalayil.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://abhinavmalayil.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-@Abhinavm055-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinavm055)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malayil_Abhinav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malayil-abhinav)  
+[![Email](https://img.shields.io/badge/Email-malayilabhinav16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:malayilabhinav16@gmail.com)  
 
 ---
 
