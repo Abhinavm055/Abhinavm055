@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/cover.jpg" alt="Cover Header" width="100%" />
+</div>
+
 # Abhinav
 
 Developer · Backend Explorer · Builder
@@ -44,22 +48,29 @@ Building real-world applications, backend systems, and modern web experiences.
 
 ### ✧ Projects
 
-| Project | Description | Repository | Live Demo |
-| :--- | :--- | :---: | :---: |
-| **CricAuctionIPL** | Real-time IPL auction simulator with multiplayer gameplay, team management, bidding logic, and auction mechanics. | [Link](https://github.com/Abhinavm055/CricAuctionIPL) | [Live Demo](https://cricauctionipl.web.app/) |
-| **CoLiveMates** | A co-living and roommate discovery platform for finding suitable shared living spaces. | [Link](https://github.com/Abhinavm055/CoLiviMates) | [Live Demo](https://co-livi-mates.vercel.app/) |
-| **AegisAI** | AI-assisted security operations platform combining deterministic threat detection with a 4-agent LLM reasoning pipeline for incident triage. | [Link](https://github.com/Abhinavm055/AegisAI) | — |
-| **MusicSuggestor** | Music discovery and recommendation application with mood dashboards and full-stack Spring Boot architecture backed by PostgreSQL. | [Link](https://github.com/Abhinavm055/MusicSuggestor) | — |
-| **Portfolio** | Personal software engineering portfolio showcasing interactive 3D elements, GSAP animations, and projects. | [Link](https://github.com/Abhinavm055/Portfolio) | — |
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **CricAuctionIPL** | Real-time IPL auction simulator with multiplayer gameplay, team management, bidding logic, and auction mechanics. | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinavm055/CricAuctionIPL) [![Live Demo](https://img.shields.io/badge/Live_Demo-0969DA?style=flat-square&logo=firebase&logoColor=white)](https://cricauctionipl.web.app/) |
+| **CoLiveMates** | A co-living and roommate discovery platform for finding suitable shared living spaces. | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinavm055/CoLiviMates) [![Live Demo](https://img.shields.io/badge/Live_Demo-0969DA?style=flat-square&logo=vercel&logoColor=white)](https://co-livi-mates.vercel.app/) |
+| **AegisAI** | AI-assisted security operations platform combining deterministic threat detection with a 4-agent LLM reasoning pipeline for incident triage. | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinavm055/AegisAI) |
+| **MusicSuggestor** | Music discovery and recommendation application with mood dashboards and full-stack Spring Boot architecture backed by PostgreSQL. | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinavm055/MusicSuggestor) |
+| **Portfolio** | Personal software engineering portfolio showcasing interactive 3D elements, GSAP animations, and projects. | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinavm055/Portfolio) [![Live Demo](https://img.shields.io/badge/Live_Demo-0969DA?style=flat-square&logo=vercel&logoColor=white)](https://abhinavmalayil.vercel.app/) |
 
 ---
 
 ### ✧ Contact
 
-• **Portfolio:** [Portfolio](https://github.com/Abhinavm055/Portfolio)  
-• **GitHub:** [@Abhinavm055](https://github.com/Abhinavm055)  
-• **LinkedIn:** [Malayil Abhinav](https://www.linkedin.com/in/malayil-abhinav)  
-• **Email:** [malayilabhinav16@gmail.com](mailto:malayilabhinav16@gmail.com)  
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhinavmalayil.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhinavmalayil.vercel.app/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-@Abhinavm055-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinavm055)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malayil_Abhinav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malayil-abhinav)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-malayilabhinav16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malayilabhinav16@gmail.com)
+
+</div>
 
 ---
 
