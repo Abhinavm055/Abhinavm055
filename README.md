@@ -1,130 +1,254 @@
 <div align="center">
-  <img src="assets/head.svg" alt="Abhinav Banner" width="100%" />
+  <!-- Vintage Sports Poster Banner (1500x500) -->
+  <img src="assets/banner.svg" alt="Abhinav — Web Developer & CS Student Banner" width="100%" />
+
+  <br/><br/>
+
+  <h2>DEVELOPER · BACKEND EXPLORER · BUILDER</h2>
+  <p><b>Building robust backend systems, scalable architectures, and modern web experiences.</b></p>
+
+  <p>
+    <a href="mailto:malayilabhinav16@gmail.com">
+      <img src="https://img.shields.io/badge/Status-Open_to_Work_|_Internships_%26_Entry--Level_Roles-B8323C?style=flat-square&logo=briefcase&logoColor=white" alt="Open to Work Badge" />
+    </a>
+  </p>
+
+  <!-- Quick Links Row -->
+  <p>
+    <a href="https://abhinavmalayil.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-abhinavmalayil.vercel.app-1B4F8A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Abhinavm055">
+      <img src="https://img.shields.io/badge/GitHub-@Abhinavm055-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/malayil-abhinav">
+      <img src="https://img.shields.io/badge/LinkedIn-Malayil_Abhinav-1B4F8A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    &nbsp;
+    <a href="mailto:malayilabhinav16@gmail.com">
+      <img src="https://img.shields.io/badge/Email-malayilabhinav16@gmail.com-B8323C?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+    </a>
+  </p>
+
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </div>
 
 <br/>
 
-# Abhinav
+## ▍ ABOUT ME
 
-**Developer · Backend Explorer · Builder**
+I am **Abhinav**, a Computer Science student and web developer looking for internships and entry-level engineering roles. I specialize in backend development, API design, and distributed architectures while crafting intuitive, responsive web interfaces.
 
-Building real-world applications, backend systems, and modern web experiences.
-
----
-
-### ✦ &nbsp; Tech Stack
-
-**Languages**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+Driven by curiosity and craftsmanship, I focus on clean maintainable code, real-time mechanics, and practical systems that solve tangible problems.
 
 <br/>
 
-**Frontend**  
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+| Quick Fact | Details |
+| :--- | :--- |
+| 🎯 **Core Focus** | Full-Stack Web Engineering, Backend Services & System Architecture |
+| ⚡ **Currently Exploring** | Microservices Architecture, Cloud Infrastructure & Distributed State |
+| 💼 **Seeking** | Software Engineer Internships & Entry-Level Roles (Available Immediately) |
 
 <br/>
 
-**Backend**  
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=postman&logoColor=white)](https://restfulapi.net/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
+<div align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</div>
 
 <br/>
 
-**Database & Backend Services**  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore)
-[![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=databricks&logoColor=black)](https://neon.tech/)
+## ▍ TECH STACK
+
+### Languages
+[![Python](https://img.shields.io/badge/Python-1B4F8A?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-B8323C?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-2B2B2B?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-1B4F8A?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C](https://img.shields.io/badge/C-2B2B2B?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+### Frontend
+[![React](https://img.shields.io/badge/React-1B4F8A?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-B8323C?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1B4F8A?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2B2B2B?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-B8323C?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+
+### Backend
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-1B4F8A?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-2B2B2B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-B8323C?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-1B4F8A?style=flat-square&logo=postman&logoColor=white)](https://restfulapi.net/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-2B2B2B?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
+[![JWT](https://img.shields.io/badge/JWT_Authentication-B8323C?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![WebSockets](https://img.shields.io/badge/WebSockets-1B4F8A?style=flat-square&logo=socket.io&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B4F8A?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-2B2B2B?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-B8323C?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Firestore](https://img.shields.io/badge/Firestore-B8323C?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)
+[![Neon](https://img.shields.io/badge/Neon-1B4F8A?style=flat-square&logo=databricks&logoColor=white)](https://neon.tech/)
+
+### Tools & Intelligent Systems
+[![Git](https://img.shields.io/badge/Git-B8323C?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-2B2B2B?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1B4F8A?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![NPM](https://img.shields.io/badge/NPM-2B2B2B?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Postman](https://img.shields.io/badge/Postman-B8323C?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-1B4F8A?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-1B4F8A?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-2B2B2B?style=flat-square&logo=robot-framework&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
+[![LLM Integration](https://img.shields.io/badge/LLM_Integration-1B4F8A?style=flat-square&logo=openai&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
 
 <br/>
 
-**Mobile**  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+<div align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</div>
 
 <br/>
 
-**Tools & DevOps**  
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-
-<br/>
-
-**Engineering**  
-[![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-[![Firebase Authentication](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/docs/auth)
-
-<br/>
-
-**AI / Intelligent Systems**  
-[![AI Applications](https://img.shields.io/badge/AI_Applications-6366F1?style=flat-square&logo=openai&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
-[![LLM Integration](https://img.shields.io/badge/LLM_Integration-10A37F?style=flat-square&logo=openai&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=robot-framework&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
-
----
-
-### ✦ &nbsp; Projects
+## ▍ FEATURED PROJECTS
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>CricAuctionIPL</b>
-      <br/><br/>
-      <a href="https://github.com/Abhinavm055/CricAuctionIPL"><img src="https://img.shields.io/badge/GitHub-071426?style=flat-square&logo=github&logoColor=67D9FF" alt="GitHub" /></a>
-      &nbsp;
-      <a href="https://cricauctionipl.web.app/"><img src="https://img.shields.io/badge/Live_Demo_↗-071426?style=flat-square&logo=googlechrome&logoColor=67D9FF" alt="Live Demo" /></a>
+      <h3>⚾ CricAuctionIPL</h3>
+      <p>Real-time IPL auction simulator featuring multiplayer gameplay, dynamic team budget management, and live bidding logic.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-1B4F8A?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-2B2B2B?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Socket.io-1B4F8A?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
+        <img src="https://img.shields.io/badge/Firebase-B8323C?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+      </p>
+      <p>
+        <a href="https://github.com/Abhinavm055/CricAuctionIPL">
+          <img src="https://img.shields.io/badge/Source_Code-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+        &nbsp;
+        <a href="https://cricauctionipl.web.app/">
+          <img src="https://img.shields.io/badge/Live_Demo_↗-B8323C?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <b>CoLiveMates</b>
-      <br/><br/>
-      <a href="https://github.com/Abhinavm055/CoLiviMates"><img src="https://img.shields.io/badge/GitHub-071426?style=flat-square&logo=github&logoColor=67D9FF" alt="GitHub" /></a>
-      &nbsp;
-      <a href="https://co-livi-mates.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo_↗-071426?style=flat-square&logo=vercel&logoColor=67D9FF" alt="Live Demo" /></a>
+      <h3>🏠 CoLiveMates</h3>
+      <p>Co-living and roommate discovery platform built for finding compatible flatmates and shared urban accommodations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-1B4F8A?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-2B2B2B?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Node.js-2B2B2B?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-B8323C?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      </p>
+      <p>
+        <a href="https://github.com/Abhinavm055/CoLiviMates">
+          <img src="https://img.shields.io/badge/Source_Code-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+        &nbsp;
+        <a href="https://co-livi-mates.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo_↗-B8323C?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>AegisAI</b>
-      <br/><br/>
-      <a href="https://github.com/Abhinavm055/AegisAI"><img src="https://img.shields.io/badge/GitHub-071426?style=flat-square&logo=github&logoColor=67D9FF" alt="GitHub" /></a>
+      <h3>🛡️ AegisAI</h3>
+      <p>AI-powered security triage platform combining deterministic threat detection with a 4-agent LLM reasoning pipeline.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-1B4F8A?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AI_Agents-2B2B2B?style=flat-square&logo=robot-framework&logoColor=white" alt="AI Agents" />
+        <img src="https://img.shields.io/badge/LLM_Pipeline-1B4F8A?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
+        <img src="https://img.shields.io/badge/React-B8323C?style=flat-square&logo=react&logoColor=white" alt="React" />
+      </p>
+      <p>
+        <a href="https://github.com/Abhinavm055/AegisAI">
+          <img src="https://img.shields.io/badge/Source_Code-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+        &nbsp;
+        <a href="https://aegisai-cyber.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo_↗-B8323C?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <b>Portfolio</b>
-      <br/><br/>
-      <a href="https://github.com/Abhinavm055/Portfolio"><img src="https://img.shields.io/badge/GitHub-071426?style=flat-square&logo=github&logoColor=67D9FF" alt="GitHub" /></a>
-      &nbsp;
-      <a href="https://abhinavmalayil.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo_↗-071426?style=flat-square&logo=vercel&logoColor=67D9FF" alt="Live Demo" /></a>
+      <h3>✨ Portfolio</h3>
+      <p>Personal portfolio website engineered with fluid micro-interactions, responsive design, and curated engineering projects.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-1B4F8A?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-2B2B2B?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Vite-B8323C?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <p>
+        <a href="https://github.com/Abhinavm055/Portfolio">
+          <img src="https://img.shields.io/badge/Source_Code-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+        &nbsp;
+        <a href="https://abhinavmalayil.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo_↗-B8323C?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
----
-
-### ✦ &nbsp; Contact
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-071426?style=flat-square&logo=vercel&logoColor=67D9FF)](https://abhinavmalayil.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-071426?style=flat-square&logo=github&logoColor=67D9FF)](https://github.com/Abhinavm055)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-071426?style=flat-square&logo=linkedin&logoColor=67D9FF)](https://www.linkedin.com/in/malayil-abhinav)
-[![Email](https://img.shields.io/badge/Email-071426?style=flat-square&logo=gmail&logoColor=67D9FF)](mailto:malayilabhinav16@gmail.com)
-
----
+<br/>
 
 <div align="center">
-  <sub>✦ &nbsp; Thanks for stopping by &nbsp; ✦</sub>
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</div>
+
+<br/>
+
+## ▍ GITHUB ACTIVITY & METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavm055&show_icons=true&bg_color=F2EFE9&title_color=B8323C&text_color=2B2B2B&icon_color=1B4F8A&border_color=1B4F8A&hide_border=false" alt="Abhinav's GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavm055&background=F2EFE9&ring=B8323C&fire=B8323C&currStreakNum=1B4F8A&sideNums=2B2B2B&currStreakLabel=B8323C&sideLabels=2B2B2B&dates=718096&border=1B4F8A" alt="Abhinav's GitHub Streak" height="165" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavm055&layout=compact&bg_color=F2EFE9&title_color=B8323C&text_color=2B2B2B&icon_color=1B4F8A&border_color=1B4F8A&hide_border=false" alt="Top Languages" height="145" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</div>
+
+<br/>
+
+## ▍ CONNECT WITH ME
+
+<div align="center">
+  <p><b>Interested in collaborating or discussing full-time & internship opportunities? Let's connect!</b></p>
+  
+  <p>
+    <a href="https://abhinavmalayil.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-1B4F8A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Abhinavm055">
+      <img src="https://img.shields.io/badge/GitHub-Follow_@Abhinavm055-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/malayil-abhinav">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-1B4F8A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:malayilabhinav16@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Send_an_Email-B8323C?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><sub>Crafted with passion & precision · Thanks for stopping by!</sub></p>
+  <img src="assets/divider.svg" alt="Vintage sports stripe divider" width="100%" />
 </div>

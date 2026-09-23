@@ -1,0 +1,14 @@
+<svg width="100%" height="16" viewBox="0 0 900 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base Subtle Axis -->
+  <line x1="60" y1="8" x2="840" y2="8" stroke="#2B2B2B" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="4 4" />
+  
+  <!-- Left Blue Stripe Accent -->
+  <rect x="415" y="2" width="30" height="12" fill="#1B4F8A" rx="1" />
+  
+  <!-- Right Red Stripe Accent -->
+  <rect x="455" y="2" width="30" height="12" fill="#B8323C" rx="1" />
+  
+  <!-- Flanking Accent Dots -->
+  <circle cx="395" cy="8" r="2.5" fill="#1B4F8A" />
+  <circle cx="505" cy="8" r="2.5" fill="#B8323C" />
+</svg>
