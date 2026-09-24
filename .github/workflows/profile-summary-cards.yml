@@ -1,0 +1,27 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate Profile Summary Cards
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release/v0
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          THEME: solarized

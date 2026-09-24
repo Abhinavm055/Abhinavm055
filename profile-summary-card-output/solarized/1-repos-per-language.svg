@@ -1,0 +1,19 @@
+<svg width="340" height="200" viewBox="0 0 340 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#FDF6E3" stroke="#1B4F8A" stroke-width="1.5"/>
+  <text x="20" y="34" fill="#B8323C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Top Languages</text>
+  
+  <g fill="#2B2B2B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">
+    <text x="20" y="72">JavaScript</text>
+    <text x="20" y="102">TypeScript</text>
+    <text x="20" y="132">Python</text>
+    <text x="20" y="162">Java</text>
+  </g>
+
+  <!-- Visual indicator bars -->
+  <rect x="140" y="62" width="130" height="8" rx="4" fill="#1B4F8A" />
+  <rect x="140" y="92" width="105" height="8" rx="4" fill="#B8323C" />
+  <rect x="140" y="122" width="85" height="8" rx="4" fill="#2B2B2B" />
+  <rect x="140" y="152" width="65" height="8" rx="4" fill="#1B4F8A" />
+
+  <text x="20" y="186" fill="#718096" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">Auto-updating via GitHub Actions</text>
+</svg>

@@ -4,58 +4,28 @@
 
   <br/><br/>
 
-  <h2>DEVELOPER · BACKEND EXPLORER · BUILDER</h2>
-  <p><b>Building robust backend systems, scalable architectures, and modern web experiences.</b></p>
-
-  <p>
-    <a href="mailto:malayilabhinav16@gmail.com">
-      <img src="https://img.shields.io/badge/Status-Open_to_Work_|_Internships_%26_Entry--Level_Roles-B8323C?style=flat-square&logo=briefcase&logoColor=white" alt="Open to Work Badge" />
-    </a>
-  </p>
-
-  <!-- Quick Links Row -->
-  <p>
-    <a href="https://abhinavmalayil.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-abhinavmalayil.vercel.app-1B4F8A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Abhinavm055">
-      <img src="https://img.shields.io/badge/GitHub-@Abhinavm055-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/malayil-abhinav">
-      <img src="https://img.shields.io/badge/LinkedIn-Malayil_Abhinav-1B4F8A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    &nbsp;
-    <a href="mailto:malayilabhinav16@gmail.com">
-      <img src="https://img.shields.io/badge/Email-malayilabhinav16@gmail.com-B8323C?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
-    </a>
-  </p>
-
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
+  <h2>DEVELOPER · EXPLORER · CREATIVE THINKER</h2>
 </div>
 
 <br/>
 
 ## ▍ ABOUT ME
 
-I am **Abhinav**, a Computer Science student and web developer looking for internships and entry-level engineering roles. I specialize in backend development, API design, and distributed architectures while crafting intuitive, responsive web interfaces.
+I am **Abhinav**, a Computer Science Engineering student and web developer looking for internships and entry-level engineering roles. I specialize in backend development, full stack development, and distributed architectures while crafting intuitive, responsive web interfaces.
 
-Driven by curiosity and craftsmanship, I focus on clean maintainable code, real-time mechanics, and practical systems that solve tangible problems.
+Driven by curiosity and craftsmanship, I focus on real time problems,clean maintainable code, real-time mechanics, and practical systems that solve tangible problems.
 
 <br/>
 
 | Quick Fact | Details |
 | :--- | :--- |
 | 🎯 **Core Focus** | Full-Stack Web Engineering, Backend Services & System Architecture |
-| ⚡ **Currently Exploring** | Microservices Architecture, Cloud Infrastructure & Distributed State |
+| ⚡ **Currently Exploring** | Ai engineering,Designing, Cloud Infrastructure & Distributed State |
 | 💼 **Seeking** | Software Engineer Internships & Entry-Level Roles (Available Immediately) |
 
 <br/>
 
-<div align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
-</div>
+
 
 <br/>
 
@@ -98,15 +68,12 @@ Driven by curiosity and craftsmanship, I focus on clean maintainable code, real-
 [![NPM](https://img.shields.io/badge/NPM-2B2B2B?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Postman](https://img.shields.io/badge/Postman-B8323C?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-1B4F8A?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-1B4F8A?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 [![AI Agents](https://img.shields.io/badge/AI_Agents-2B2B2B?style=flat-square&logo=robot-framework&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
 [![LLM Integration](https://img.shields.io/badge/LLM_Integration-1B4F8A?style=flat-square&logo=openai&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
 
 <br/>
 
-<div align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
-</div>
+
 
 <br/>
 
@@ -134,8 +101,8 @@ Driven by curiosity and craftsmanship, I focus on clean maintainable code, real-
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 CoLiveMates</h3>
-      <p>Co-living and roommate discovery platform built for finding compatible flatmates and shared urban accommodations.</p>
+      <h3>🏠 CoLiviMates</h3>
+      <p>Co-living and roommate discovery platform built for finding compatible roommates and shared urban accommodations in budget.</p>
       <p>
         <img src="https://img.shields.io/badge/React-1B4F8A?style=flat-square&logo=react&logoColor=white" alt="React" />
         <img src="https://img.shields.io/badge/Tailwind-2B2B2B?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
@@ -174,31 +141,32 @@ Driven by curiosity and craftsmanship, I focus on clean maintainable code, real-
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ Portfolio</h3>
-      <p>Personal portfolio website engineered with fluid micro-interactions, responsive design, and curated engineering projects.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-1B4F8A?style=flat-square&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-2B2B2B?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Vite-B8323C?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      </p>
-      <p>
-        <a href="https://github.com/Abhinavm055/Portfolio">
-          <img src="https://img.shields.io/badge/Source_Code-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-        &nbsp;
-        <a href="https://abhinavmalayil.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo_↗-B8323C?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-      </p>
+      <h3>✨ Talvyn</h3>
+<p>AI-powered career companion that helps you discover, analyze, save, and organize job opportunities directly from the web.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-1B4F8A?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-2B2B2B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-B8323C?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Chrome_Extension-2B2B2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
+</p>
+
+<p>
+  <a href="https://github.com/Abhinavm055/Talvyn">
+    <img src="https://img.shields.io/badge/Source_Code-2B2B2B?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+  &nbsp;
+  <a href="https://talvyn.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo_↗-B8323C?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
-</div>
+
 
 <br/>
 
@@ -216,9 +184,6 @@ Driven by curiosity and craftsmanship, I focus on clean maintainable code, real-
 
 <br/>
 
-<div align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
-</div>
 
 <br/>
 
@@ -249,6 +214,6 @@ Driven by curiosity and craftsmanship, I focus on clean maintainable code, real-
 <br/>
 
 <div align="center">
-  <p><sub>Crafted with passion & precision · Thanks for stopping by!</sub></p>
+  <p><sub>Thank you guys!!!</sub></p>
   <img src="assets/divider.svg" alt="Vintage sports stripe divider" width="100%" />
 </div>
