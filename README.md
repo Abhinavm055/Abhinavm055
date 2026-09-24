@@ -164,28 +164,38 @@ Driven by curiosity and craftsmanship, I focus on real time problems,clean maint
   </tr>
 </table>
 
-<br/>
-
-
+<div align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</div>
 
 <br/>
 
 ## ▍ GITHUB ACTIVITY & METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavm055&show_icons=true&bg_color=F2EFE9&title_color=B8323C&text_color=2B2B2B&icon_color=1B4F8A&border_color=1B4F8A&hide_border=false" alt="Abhinav's GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavm055&background=F2EFE9&ring=B8323C&fire=B8323C&currStreakNum=1B4F8A&sideNums=2B2B2B&currStreakLabel=B8323C&sideLabels=2B2B2B&dates=718096&border=1B4F8A" alt="Abhinav's GitHub Streak" height="165" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavm055&layout=compact&bg_color=F2EFE9&title_color=B8323C&text_color=2B2B2B&icon_color=1B4F8A&border_color=1B4F8A&hide_border=false" alt="Top Languages" height="145" />
+
+<img src="https://streak-stats.demolab.com/?user=Abhinavm055&background=F2EFE9&ring=B8323C&fire=B8323C&currStreakNum=1B4F8A&currStreakLabel=B8323C&sideNums=2B2B2B&sideLabels=2B2B2B&dates=1B4F8A&border=00000000&border_radius=4" alt="GitHub Streak" width="100%" />
+
+<br/><br/>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinavm055&theme=solarized" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinavm055&theme=solarized" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
-
-<br/>
+<div align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</div>
 
 ## ▍ CONNECT WITH ME
 
