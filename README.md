@@ -11,8 +11,7 @@
 
 ## ▍ ABOUT ME
 
-I am **Abhinav**, a Computer Science Engineering student and web developer looking for internships and entry-level engineering roles. I specialize in backend development, full stack development, and distributed architectures while crafting intuitive, responsive web interfaces.
-
+I am **Abhinav**, a Computer Science Engineering student and Web developer looking for internships and entry-level engineering roles. I specialize in backend development, full stack development, and distributed architectures while crafting intuitive, responsive web interfaces.
 Driven by curiosity and craftsmanship, I focus on real time problems,clean maintainable code, real-time mechanics, and practical systems that solve tangible problems.
 
 <br/>
@@ -24,9 +23,6 @@ Driven by curiosity and craftsmanship, I focus on real time problems,clean maint
 | 💼 **Seeking** | Software Engineer Internships & Entry-Level Roles (Available Immediately) |
 
 <br/>
-
-
-
 <br/>
 
 ## ▍ TECH STACK
@@ -72,8 +68,6 @@ Driven by curiosity and craftsmanship, I focus on real time problems,clean maint
 [![LLM Integration](https://img.shields.io/badge/LLM_Integration-1B4F8A?style=flat-square&logo=openai&logoColor=white)](https://github.com/Abhinavm055/AegisAI)
 
 <br/>
-
-
 
 <br/>
 
@@ -164,38 +158,11 @@ Driven by curiosity and craftsmanship, I focus on real time problems,clean maint
   </tr>
 </table>
 
-<div align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
-</div>
+<br/>
 
 <br/>
 
-## ▍ GITHUB ACTIVITY & METRICS
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Abhinavm055&background=F2EFE9&ring=B8323C&fire=B8323C&currStreakNum=1B4F8A&currStreakLabel=B8323C&sideNums=2B2B2B&sideLabels=2B2B2B&dates=1B4F8A&border=00000000&border_radius=4" alt="GitHub Streak" width="100%" />
-
-<br/><br/>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinavm055&theme=solarized" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinavm055&theme=solarized" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
-</div>
 
 ## ▍ CONNECT WITH ME
 
