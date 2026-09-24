@@ -10,7 +10,8 @@
     <pattern id="diagonalHatch" width="8" height="8" patternUnits="userSpaceOnUse">
       <path d="M-1,1 l2,-2 M0,8 l8,-8 M7,9 l2,-2" stroke="#2B2B2B" stroke-width="0.5" stroke-opacity="0.02" />
     </pattern>
-    <!-- Stripe Linear Gradients with slight vintage patina -->
+
+    <!-- Stripe Linear Gradients with vintage patina -->
     <linearGradient id="blueStripe" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#1B4F8A" />
       <stop offset="100%" stop-color="#143B66" />
@@ -18,6 +19,14 @@
     <linearGradient id="redStripe" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#B8323C" />
       <stop offset="100%" stop-color="#93252E" />
+    </linearGradient>
+
+    <!-- Split "I" Gradient: Top 50% Deep Blue, Bottom 50% Crimson Red with a clean cut -->
+    <linearGradient id="splitIGrad" x1="0" y1="0" x2="0" y2="100%">
+      <stop offset="0%" stop-color="#1B4F8A" />
+      <stop offset="50%" stop-color="#1B4F8A" />
+      <stop offset="50%" stop-color="#B8323C" />
+      <stop offset="100%" stop-color="#B8323C" />
     </linearGradient>
   </defs>
 
@@ -28,7 +37,7 @@
   <rect width="1500" height="500" fill="url(#vintageDots)" />
   <rect width="1500" height="500" fill="url(#diagonalHatch)" />
 
-  <!-- Center Vertical Stripes -->
+  <!-- Center Vertical Background Stripes -->
   <!-- Left Stripe: Deep Blue #1B4F8A -->
   <rect x="660" y="0" width="90" height="500" fill="url(#blueStripe)" />
   <!-- Right Stripe: Crimson Red #B8323C -->
@@ -44,14 +53,14 @@
   <rect x="25" y="457" width="18" height="18" fill="#B8323C" />
   <rect x="1457" y="457" width="18" height="18" fill="#1B4F8A" />
 
-  <!-- Left Side Rotated Text: "WEB DEVELOPER" -->
+  <!-- Left Side Rotated Text: "WEB DEVELOPER" in clean charcoal -->
   <g transform="translate(68, 250) rotate(-90)">
-    <text x="0" y="0" fill="#1B4F8A" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="13" font-weight="800" letter-spacing="0.32em" text-anchor="middle">WEB DEVELOPER</text>
+    <text x="0" y="0" fill="#2B2B2B" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.34em" text-anchor="middle">WEB DEVELOPER</text>
   </g>
 
-  <!-- Right Side Rotated Text: "CS STUDENT" -->
+  <!-- Right Side Rotated Text: "COMPUTER SCIENCE STUDENT" in clean charcoal -->
   <g transform="translate(1432, 250) rotate(90)">
-    <text x="0" y="0" fill="#B8323C" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="13" font-weight="800" letter-spacing="0.32em" text-anchor="middle">CS STUDENT</text>
+    <text x="0" y="0" fill="#2B2B2B" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="12" font-weight="700" letter-spacing="0.3em" text-anchor="middle">COMPUTER SCIENCE STUDENT</text>
   </g>
 
   <!-- Code Glyph Accents -->
@@ -59,10 +68,12 @@
   <text x="1110" y="370" fill="#B8323C" font-family="'Courier New', monospace" font-size="28" font-weight="700" opacity="0.45">{ }</text>
 
   <!-- Title Backdrop Plate for high-contrast legibility over stripes -->
-  <rect x="280" y="165" width="940" height="170" fill="#F2EFE9" fill-opacity="0.94" stroke="#2B2B2B" stroke-width="2" stroke-opacity="0.15" rx="2" />
+  <rect x="260" y="160" width="980" height="180" fill="#F2EFE9" fill-opacity="0.96" stroke="#2B2B2B" stroke-width="2" stroke-opacity="0.2" rx="3" />
 
-  <!-- Huge Bold Condensed Headline: "ABHINAV" -->
-  <text x="750" y="295" fill="#2B2B2B" font-family="'Impact', 'Arial Black', -apple-system, sans-serif" font-size="142" font-weight="900" letter-spacing="0.16em" text-anchor="middle">ABHINA<tspan fill="#1B4F8A">V</tspan></text>
+  <!-- Huge Bold Condensed Headline: "ABHINAV" with Split "I" -->
+  <text x="750" y="295" font-family="'Impact', 'Arial Black', -apple-system, sans-serif" font-size="142" font-weight="900" letter-spacing="0.14em" text-anchor="middle">
+    <tspan fill="#2B2B2B">ABH</tspan><tspan fill="url(#splitIGrad)">I</tspan><tspan fill="#2B2B2B">NAV</tspan>
+  </text>
 
   <!-- Small Subtitle Beneath Name -->
   <text x="750" y="325" fill="#718096" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="11" font-weight="700" letter-spacing="0.4em" text-anchor="middle">PORTFOLIO  ·  EST. 2026</text>
